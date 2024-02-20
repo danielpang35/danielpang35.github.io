@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
  
-p1 {
+.p1 {
     white-space: pre-line;
 }
 /* Set body font and background color */
