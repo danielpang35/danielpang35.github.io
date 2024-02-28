@@ -50,12 +50,6 @@ nav ul li {
     margin-right: 20px;
     text-decoration: none;
     color: #333;
-    font-weight: bold;
-    padding: 5px 10px; /* Add padding to the navigation items */
-    border-radius: 5px; /* Add rounded corners to the navigation items */
-    border: 1px solid #ccc; /* Add a border around the navigation items */
-    transition: background-color 0.3s, color 0.3s; /* Add a smooth transition for hover effects */
-
 }
 
 nav ul li:last-child {
